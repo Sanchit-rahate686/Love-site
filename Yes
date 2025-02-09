@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yay! ❤️</title>
+    <style>
+        body { text-align: center; background: red; color: white; font-family: Arial; }
+        h1 { font-size: 48px; }
+        .heart { font-size: 100px; }
+    </style>
+</head>
+<body>
+    <h1>Yay! You Said Yes! ❤️</h1>
+    <div class="heart">💘💞💖</div>
+    <p>Happy Valentine's Day! 🎉</p>
+</body>
+</html>
